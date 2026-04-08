@@ -1,0 +1,10 @@
+NASA Log Dataset (July 1995)
+
+Stored in HDFS:
+/logs/input/NASA_access_log_Jul95
+
+Type:
+Unstructured log data
+
+Used in Hive table:
+weblog.access_logs
